@@ -4,7 +4,7 @@
      width="700" 
      height="150" />
 
-<p align:"center" style="text-align: justify; margin: 0 1px; font-size: 16px;" >
+<p align:"center" style="text-align: justify; margin: 0 1px; font-size: 18px;" >
     I am Computer Science student who is passionate about Ethical Hacking and Penetration testing. I do code in C/C++ and Python. I enjoy playing CTF challenges like HachTheBox and TryHackMe.
     
 </p>    
