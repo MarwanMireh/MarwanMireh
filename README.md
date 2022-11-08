@@ -2,7 +2,7 @@
 
 <img src="https://www.lambdatest.com/resources/images/news24.gif" 
      width="700" 
-     height="150" />
+     height="200" />
 
 <p align:"center" style="text-align: justify; margin: 10px; font-size: 18px;" >
     I am Computer Science student who is passionate about Ethical Hacking and Penetration testing. I do code in C/C++ and Python. I enjoy playing CTF challenges like HachTheBox and TryHackMe.
